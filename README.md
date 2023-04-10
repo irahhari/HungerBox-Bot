@@ -49,11 +49,11 @@ Now, the bot is all set and will pre-book your meal.
 
 ### 1. Disabling the Bot
 
-You can disable the bot by running `disable.ps1` file with PowerShell, like shown above, when you are going for a vacation or working from home.
+You can disable the bot by running `disable.ps1` file with PowerShell located in *task* folder, like shown above, when you are going for a vacation or working from home.
 
 ### 2. Enabling the Bot
 
-You can enable the bot by running `enable.ps1` file with PowerShell.
+You can enable the bot by running `enable.ps1` file with PowerShell located in *task* folder.
 
 ### 3. Modifying the Preferences
 
