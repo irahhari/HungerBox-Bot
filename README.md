@@ -37,6 +37,8 @@ If you don't have Python pre-installed, click the above link to install it.
 
 2. Run the `preference.bat` file and provide details like email ID, password, dietary choices and meals required.
 
+      If you don't remember the password or have not set a password, you can visit this [HungerBox](https://silabs.hungerbox.com/#/forgot-password) website to set a password.
+
 3. After that, run `register.ps1` file with PowerShell and click Yes when prompted, as shown below.
 
 ![Register Task](./img/register.gif)
