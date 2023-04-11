@@ -9,9 +9,9 @@ HungerBox Bot is a simple Python script to automate the monotonous task of pre-b
   - [Pre-requisites](#pre-requisites)
   - [Procedure](#procedure)
 - [Features](#features)
-  - [1. Disabling the Bot](#1-disabling-the-bot)
-  - [2. Enabling the Bot](#2-enabling-the-bot)
-  - [3. Modifying the Preferences](#3-modifying-the-preferences)
+  1. [Disabling the Bot](#1-disabling-the-bot)
+  2. [Enabling the Bot](#2-enabling-the-bot)
+  3. [Modifying the Preferences](#3-modifying-the-preferences)
 
 ## Working
 
